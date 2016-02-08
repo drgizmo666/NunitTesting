@@ -1,0 +1,6 @@
+C:\Users\james\Documents\GitHub\UnitTesting\BankClassLibrary\BankClassLibrary\bin\Debug\BankClassLibrary.dll
+C:\Users\james\Documents\GitHub\UnitTesting\BankClassLibrary\BankClassLibrary\bin\Debug\BankClassLibrary.pdb
+C:\Users\james\Documents\GitHub\UnitTesting\BankClassLibrary\BankClassLibrary\bin\Debug\nunit.framework.dll
+C:\Users\james\Documents\GitHub\UnitTesting\BankClassLibrary\BankClassLibrary\bin\Debug\nunit.framework.xml
+C:\Users\james\Documents\GitHub\UnitTesting\BankClassLibrary\BankClassLibrary\obj\Debug\BankClassLibrary.dll
+C:\Users\james\Documents\GitHub\UnitTesting\BankClassLibrary\BankClassLibrary\obj\Debug\BankClassLibrary.pdb
